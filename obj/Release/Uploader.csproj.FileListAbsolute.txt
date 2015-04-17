@@ -1,0 +1,16 @@
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\MiCo.MiForms.Uploader.exe.config
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\obj\Release\Uploader.csprojResolveAssemblyReference.cache
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\MiCo.MiForms.Uploader.exe
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\MiCo.MiForms.Uploader.pdb
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\log4net.dll
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\MiCo.MiForms.MiFormsComponent.dll
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\MiCo.MiForms.Server.ServerInterface.dll
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\PdfSharp.Charting.dll
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\PdfSharp.dll
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\log4net.xml
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\PdfSharp.xml
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\PdfSharp.Charting.xml
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\de\PdfSharp.resources.dll
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\obj\Release\MiCo.MiForms.Uploader.exe
+C:\Users\kburgess\Documents\TFS\Mi-Co\Form Session Uploader\Uploader\obj\Release\MiCo.MiForms.Uploader.pdb
